@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"[python]": {
+			"editor.wordBasedSuggestions": false,
+			"editor.formatOnSave": true
+		},
+		"code-runner.runInTerminal": true
+	}
+}
